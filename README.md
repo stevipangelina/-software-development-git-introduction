@@ -4,3 +4,8 @@ Repository ini dibuat sebagai tugas pengenalan Git dan GitHub pada mata kuliah S
 
 Nama : Stevi Putri Angelina 
 NPM : 2313020002
+
+# Tools yang digunakan 
+- Git 
+- GitHub 
+- Visual Studio Code
